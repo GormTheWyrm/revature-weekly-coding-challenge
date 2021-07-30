@@ -1,0 +1,22 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(Ë²¿Ìþÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(ÉŠšÝùÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(îæ§²
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(£ÿŸm
+W
+java:S1854)"<Remove this useless assignment to local variable "endIndex".(ÉïŒ›øÿÿÿÿ
+S
+java:S1854(">Remove this useless assignment to local variable "startIndex".(™±ì{
+R
+java:S1854-"<Remove this useless assignment to local variable "endIndex".(Œ¡îž
+M
+java:S1197%"8Move the array designator from the variable to the type.(ãÆœ
+S
+java:S1197/"8Move the array designator from the variable to the type.(‘Õåûÿÿÿÿ
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(—¬æ¬ûÿÿÿÿ8ÕÞ…¡®/
+D
+java:S1481("/Remove this unused "startIndex" local variable.(™±ì{
+H
+java:S1481)"-Remove this unused "endIndex" local variable.(ÉïŒ›øÿÿÿÿ
